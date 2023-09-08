@@ -1,8 +1,6 @@
 # rnum
 Random Number Generator in C
 
-gcc -o rnum0.0.5 rnum.c
-
 Installation
 ```
 git clone https://github.com/v1rx/rnum
